@@ -1,4 +1,4 @@
-[Uploading README.md…]()# FTTH aux Antilles : déployer ou faire adopter ?
+# FTTH aux Antilles : déployer ou faire adopter ?
 
 **Cas d'étude Data Analyst · Capstone Google Data Analytics (Track B)**
 Par Maritza Brival
