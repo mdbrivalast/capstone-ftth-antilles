@@ -183,6 +183,10 @@ full_df.to_csv('capstone_processed_varianteB.csv', encoding='utf-8', index=False
 ```
 </details>
 
+**Vous pouvez également reproduire l'analyse sur Kaggle**, dans un notebook exécutable qui lit les données directement depuis ce dépôt :
+
+[FTTH aux Antilles : déployer ou faire adopter ?](https://www.kaggle.com/code/maritzabrival/ftth-aux-antilles-d-ployer-ou-faire-adopter)
+
 ## Sources
 
 - [1] Plan France Très Haut Débit, services de l'État : <https://www.ain.gouv.fr/Actions-de-l-Etat/Numerique/Infrastructures-numeriques-fixes/Plan-France-tres-haut-debit>
